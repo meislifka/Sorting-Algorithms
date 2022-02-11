@@ -1,7 +1,7 @@
 /**
- * this is a project performs bubble sort and puts array in ascending or descending order
+ * this is a project performs Insertion sort and puts array in ascending or descending order
  * @author Mei Slifka
- * Created at : 2022-02-09
+ * Created at : 2022-02-10
  */
 
 import java.util.Scanner;
